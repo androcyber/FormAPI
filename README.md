@@ -4,7 +4,7 @@
 
 <h2 align="center">Social Media</h3>
 <p align="center">
-<a href="https://www.github.com/androcyber" target="_blank"><img alt="androcyber" src="https://i.hizliresim.com/jxp3m16.png" align="center" width="256" height="256"></img></a>
+<a href="https://www.github.com/androcyber" target="_blank"><img alt="androcyber" src="https://i.hizliresim.com/jxp3m16.png" align="center" style="width:200px;height: 200px"></img></a>
 <a href="https://www.youtube.com/androcyber" target="_blank"><img alt="androcyber" src="https://i.hizliresim.com/ibuzuks.png" align="center" width="256" height="256"></img></a>
 <a href="https://www.twitter.com/androcyber0" target="_blank"><img alt="androcyber0" src="https://i.hizliresim.com/r98d0rb.png" align="center" width="256" height="256"></img></a>
 <a href="https://www.instagram.com/androcyber0" target="_blank"><img alt="androcyber0" src="https://i.hizliresim.com/4xhm1hk.png" align="center" width="256" height="256"></img></a>

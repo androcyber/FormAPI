@@ -2,10 +2,10 @@
 <h4 align="center">Example uses for FormAPI. Includes CustomForm, ModalForm, SimpleForm</h4><br>
 <br>
 <p align="left">
-<b>Examples:</b>
-<a href="https://github.com/androcyber/pmmp_formapi/blob/main/examples/CustomForm.php">CustomForm example.</a>
-<a href="https://github.com/androcyber/pmmp_formapi/blob/main/examples/ModalForm.php">ModalForm example.</a>
-<a href="https://github.com/androcyber/pmmp_formapi/blob/main/examples/SimpleForm.php">SimpleForm example.</a>
+<b>FormAPI Examples:</b>
+- <a href="https://github.com/androcyber/pmmp_formapi/blob/main/examples/CustomForm.php">CustomForm example.</a>
+- <a href="https://github.com/androcyber/pmmp_formapi/blob/main/examples/ModalForm.php">ModalForm example.</a>
+- <a href="https://github.com/androcyber/pmmp_formapi/blob/main/examples/SimpleForm.php">SimpleForm example.</a>
 </p>
 
 <h2 align="center">Social Media</h3>
